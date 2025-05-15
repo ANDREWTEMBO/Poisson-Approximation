@@ -69,7 +69,7 @@ f_{\text{hybrid}} = w(\lambda)f_N + (1 - w(\lambda))f_G
 ## 🧪 Installation
 
 ```bash
-git clone https://github.com/yourusername/poisson-approx.git
+git clone https://github.com/ANDREWTEMBO/poisson-approximation.git
 cd poisson-approx
 pip install .
 ```
