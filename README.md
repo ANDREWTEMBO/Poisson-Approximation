@@ -95,7 +95,7 @@ print(f"Hybrid Poisson Approximation: {p:.5f}")
 **Andrew Tembo**
 📧 [andrewcztembo@gmail.com](mailto:andrewcztembo@gmail.com)
 🆔 Student ID: 202309892
-📅 January 2025
+📅 JULY 2025
 📄 Project: Enhancing the 
 
 
@@ -119,7 +119,7 @@ This Python package provides fast and accurate approximations for Poisson probab
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/poisson-approx.git
+git clone https://github.com/ANDREWTEMBO/poisson-approx.git
 cd poisson-approx
 ```
 
